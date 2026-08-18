@@ -1,0 +1,3 @@
+[submodule "claude-code-companion"]
+	path = claude-code-companion
+	url = https://github.com/ford-at-home/claude-code-companion.git
